@@ -1,4 +1,5 @@
 EmotionSencePro 🎭
+
 📌 Overview
 
 EmotionSencePro is a machine learning-based emotion detection system that analyzes facial expression data to classify human emotions. The project demonstrates an end-to-end ML pipeline including data preprocessing, model training, evaluation, and deployment using a Flask backend.
@@ -10,24 +11,36 @@ Understanding human emotions is critical in applications such as mental health m
 🧠 Features
 
 Emotion classification using machine learning
+
 Data preprocessing and feature extraction
+
 Model training and evaluation
+
 REST API using Flask
+
 Real-time prediction capability
+
 Clean modular project structure
 
 🛠 Tech Stack
 
 Python
+
 Scikit-learn
+
 Pandas & NumPy
+
 Flask
+
 Machine Learning (Logistic Regression)
+
 HTML/CSS (if frontend included)
+
 
 📊 Dataset
 
 The FER2013 dataset is not included due to GitHub file size limits.
+
 Download here:
 https://www.kaggle.com/datasets/msambare/fer2013
 
